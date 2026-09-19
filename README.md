@@ -7,8 +7,9 @@ Generative AI internship work by **Hammad Ali**.
 | Task | Folder |
 |------|--------|
 | 1 — Streamlit UI for a local Ollama LLM | [`month-1/task-1-streamlit-ollama/`](month-1/task-1-streamlit-ollama/) |
+| 2 — Medical QLoRA fine-tune with Unsloth | [`month-1/task-2-medical-qlora-unsloth/`](month-1/task-2-medical-qlora-unsloth/) |
 
-Task 1: `streamlit run app.py` with Ollama running locally.
+Task 1: `streamlit run app.py` with Ollama running locally. Task 2: open the notebook in [Google Colab](https://colab.research.google.com/) with a **T4 GPU**, then Runtime → Run all.
 
 ## Month 2
 
